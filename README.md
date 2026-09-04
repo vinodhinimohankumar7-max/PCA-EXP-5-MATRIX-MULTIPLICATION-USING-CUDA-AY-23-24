@@ -1,9 +1,9 @@
 # PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24
 <h3>AIM:</h3>
-<h3>ENTER YOUR NAME</h3>
-<h3>ENTER YOUR REGISTER NO</h3>
-<h3>EX. NO</h3>
-<h3>DATE</h3>
+<h3>ENTER YOUR NAME: Vinodhini M k</h3>
+<h3>ENTER YOUR REGISTER NO: 2122252303035</h3>
+<h3>EX. NO:5</h3>
+<h3>DATE:4/09/2026</h3>
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   Implement Matrix Multiplication using GPU.</h3>
 
@@ -207,4 +207,4 @@ int main()
 ![alt text](<Screenshot 2026-09-04 105110.png>)
 
 ## RESULT:
-Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took ______________time and host took ___________time.
+Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took 0.001749  seconds time and host took 0.000180 seconds time.
